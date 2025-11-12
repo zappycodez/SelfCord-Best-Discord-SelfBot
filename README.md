@@ -28,3 +28,17 @@ When others talk about power, SelfCord defines it.
 When others reach their limit, SelfCord begins.
 
 Silent. Relentless. Indestructible. SelfCord.
+
+
+## Disclaimer
+
+This repository and the code contained herein are provided **for educational and research purposes only**. The authors and contributors have created this project to demonstrate concepts and to facilitate learning; it is **not** intended to be used for malicious, illegal, or harmful activities.
+
+By using this code you acknowledge and agree that:
+
+- You are solely responsible for how you use the code and any consequences that result from its use.
+- The authors, maintainers, and contributors **do not** accept any liability for damages, losses, or legal consequences arising from its use or misuse.
+- This project is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose, accuracy, or non-infringement.
+- It is your responsibility to ensure your use complies with all applicable laws, regulations, and terms of service.
+
+If you are unsure whether a use case is lawful or ethical, do not proceed. Seek legal advice or consult a trusted authority.
